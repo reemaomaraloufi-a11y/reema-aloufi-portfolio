@@ -1,0 +1,11 @@
+{
+  "title": "Reema Aloufi",
+  "description": "Easily upload and convert your website zip files into fully functional sites, streamlining the process for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
