@@ -1,8 +1,8 @@
 {
   "title": "Reema Aloufi",
-  "description": "Easily upload and convert your website zip files into fully functional sites, streamlining the process for developers and designers.",
+  "description": "Graphic design portfolio by Reema Aloufi, featuring brand identities, campaigns, illustrations, packaging, social media, and digital experiences.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
